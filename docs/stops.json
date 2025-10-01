@@ -9,6 +9,86 @@
             }
         },
         {
+            "name": "Akvarelli (Nõlvaku suunas)",
+            "position": {
+                "lat": 58.35976371031082,
+                "lng": 26.796714986635703,
+                "height": 41.881248474121094
+            }
+        },
+        {
+            "name": "Akvarelli (Vana-Ihaste suunas)",
+            "position": {
+                "lat": 58.359366191064936,
+                "lng": 26.79653724517275,
+                "height": 41.44124984741211
+            }
+        },
+        {
+            "name": "Anne (Jaama tn. suunas)",
+            "position": {
+                "lat": 58.378086561001815,
+                "lng": 26.751793196261342,
+                "height": 34.521873474121094
+            }
+        },
+        {
+            "name": "Anne (Sõpruse ringi suunas)",
+            "position": {
+                "lat": 58.37709619673756,
+                "lng": 26.75072279226086,
+                "height": 33.98999786376953
+            }
+        },
+        {
+            "name": "Annelinna gümnaasium (Jaama tn. suunas)",
+            "position": {
+                "lat": 58.375941207458865,
+                "lng": 26.77043559727758,
+                "height": 50.381248474121094
+            }
+        },
+        {
+            "name": "Annelinna gümnaasium (Kalda tee suunas)",
+            "position": {
+                "lat": 58.37547794006395,
+                "lng": 26.76963322520155,
+                "height": 48.47812271118164
+            }
+        },
+        {
+            "name": "Annelinna keskus (Kesklinna suunas)",
+            "position": {
+                "lat": 58.37045274047449,
+                "lng": 26.766701320002223,
+                "height": 38.358123779296875
+            }
+        },
+        {
+            "name": "Annelinna keskus (Mõisavahe tn. suunas)",
+            "position": {
+                "lat": 58.36953028042384,
+                "lng": 26.767520746624996,
+                "height": 37.44499969482422
+            }
+        },
+        {
+            "name": "Annemõisa (Kaunase pst. suunas)",
+            "position": {
+                "lat": 58.37848670925676,
+                "lng": 26.775998624924622,
+                "height": 60.54499816894531
+            }
+        },
+        {
+            "name": "Annemõisa (Nõlvaku suunas)",
+            "position": {
+                "lat": 58.37676964498329,
+                "lng": 26.777885984560424,
+                "height": 59.84937286376953
+            }
+        },
+        {
             "name": "Arhitekti (linna sisenev)",
             "position": {
                 "lat": 58.36818677636611,
@@ -54,6 +134,38 @@
                 "lat": 58.38361348801004,
                 "lng": 26.691569443050557,
                 "height": 56.13750076293945
+            }
+        },
+        {
+            "name": "ERM (linna sisenev)",
+            "position": {
+                "lat": 58.39408790018991,
+                "lng": 26.7447827625825,
+                "height": 53.51124954223633
+            }
+        },
+        {
+            "name": "ERM (linnast väljuv)",
+            "position": {
+                "lat": 58.39361731425355,
+                "lng": 26.7457729313054,
+                "height": 53.25312423706055
+            }
+        },
+        {
+            "name": "Eeden (Annelinna suunas)",
+            "position": {
+                "lat": 58.37383445196595,
+                "lng": 26.75134857821433,
+                "height": 34.22687530517578
+            }
+        },
+        {
+            "name": "Eeden (Sõpruse ringi suunas)",
+            "position": {
+                "lat": 58.37379459631662,
+                "lng": 26.752394769723487,
+                "height": 34.54874801635742
             }
         },
         {
@@ -113,6 +225,54 @@
             }
         },
         {
+            "name": "Ihaste (Kasteheina suunas)",
+            "position": {
+                "lat": 58.34487077882916,
+                "lng": 26.779582420310852,
+                "height": 40.72999954223633
+            }
+        },
+        {
+            "name": "Ihaste (Kraavikalda suunas)",
+            "position": {
+                "lat": 58.34493540131655,
+                "lng": 26.779367070208647,
+                "height": 40.62062454223633
+            }
+        },
+        {
+            "name": "Ihaste tee I (Ihaste suunas)",
+            "position": {
+                "lat": 58.36492893456245,
+                "lng": 26.758642729865155,
+                "height": 32.84937286376953
+            }
+        },
+        {
+            "name": "Ihaste tee I (Kesklinna suunas)",
+            "position": {
+                "lat": 58.3651681734102,
+                "lng": 26.75879413821389,
+                "height": 33.041873931884766
+            }
+        },
+        {
+            "name": "Ihaste tee II (Ihaste suunas)",
+            "position": {
+                "lat": 58.3600298265848,
+                "lng": 26.759594474408345,
+                "height": 32.92499923706055
+            }
+        },
+        {
+            "name": "Ihaste tee II (Kesklinna suunas)",
+            "position": {
+                "lat": 58.3611697270153,
+                "lng": 26.75974510115715,
+                "height": 33.224998474121094
+            }
+        },
+        {
             "name": "Iie (linna)",
             "position": {
                 "lat": 58.45146154786649,
@@ -142,6 +302,22 @@
                 "lat": 58.37713422822446,
                 "lng": 26.688898777018075,
                 "height": 60.818748474121094
+            }
+        },
+        {
+            "name": "Jaama (kesklinna suunas)",
+            "position": {
+                "lat": 58.38406506848771,
+                "lng": 26.740256175523047,
+                "height": 36.564998626708984
+            }
+        },
+        {
+            "name": "Jaama (linnast väljuv)",
+            "position": {
+                "lat": 58.383940145257526,
+                "lng": 26.740378199004738,
+                "height": 36.59562301635742
             }
         },
         {
@@ -185,6 +361,22 @@
             }
         },
         {
+            "name": "Kalda tee (Annelinna suunas)",
+            "position": {
+                "lat": 58.37208850329216,
+                "lng": 26.759663576860905,
+                "height": 35.73937225341797
+            }
+        },
+        {
+            "name": "Kalda tee (Kesklinna suunas)",
+            "position": {
+                "lat": 58.37252221700337,
+                "lng": 26.75751545546272,
+                "height": 35.58937454223633
+            }
+        },
+        {
             "name": "Kana-Oleski (linna)",
             "position": {
                 "lat": 58.409259037451186,
@@ -198,6 +390,22 @@
                 "lat": 58.409347054250674,
                 "lng": 26.679754272189097,
                 "height": 43.49937438964844
+            }
+        },
+        {
+            "name": "Kanali (Kesklinna suunas)",
+            "position": {
+                "lat": 58.376693877515685,
+                "lng": 26.744578742385,
+                "height": 33.69187545776367
+            }
+        },
+        {
+            "name": "Kanali (Sõpruse pst. suunas)",
+            "position": {
+                "lat": 58.375847220832384,
+                "lng": 26.74589586755658,
+                "height": 33.55875015258789
             }
         },
         {
@@ -249,11 +457,51 @@
             }
         },
         {
+            "name": "Kasarmu (Narva mnt. suunas)",
+            "position": {
+                "lat": 58.386603643822504,
+                "lng": 26.737179960600425,
+                "height": 50.75937271118164
+            }
+        },
+        {
+            "name": "Kasteheina (Hipodroomi suunas)",
+            "position": {
+                "lat": 58.349239714209396,
+                "lng": 26.787491335967335,
+                "height": 45.271873474121094
+            }
+        },
+        {
+            "name": "Kasteheina (Pallase pst. suunas)",
+            "position": {
+                "lat": 58.34930630646207,
+                "lng": 26.787719602723225,
+                "height": 45.30187225341797
+            }
+        },
+        {
             "name": "Kaubajaam",
             "position": {
                 "lat": 58.36972015653435,
                 "lng": 26.707456386337007,
                 "height": 62.689998626708984
+            }
+        },
+        {
+            "name": "Kaunase puiestee (Jaama tn. suunas)",
+            "position": {
+                "lat": 58.37154833633201,
+                "lng": 26.766518113062002,
+                "height": 38.70062255859375
+            }
+        },
+        {
+            "name": "Kaunase puiestee (Kesklinna suunas)",
+            "position": {
+                "lat": 58.37169044714869,
+                "lng": 26.76376183253856,
+                "height": 37.37687683105469
             }
         },
         {
@@ -337,6 +585,22 @@
             }
         },
         {
+            "name": "Kivilinna (Kaunase pst. suunas)",
+            "position": {
+                "lat": 58.37999942503609,
+                "lng": 26.76392473856835,
+                "height": 50.38687515258789
+            }
+        },
+        {
+            "name": "Kivilinna (Sõpruse pst. suunas)",
+            "position": {
+                "lat": 58.38015047491227,
+                "lng": 26.763895075326463,
+                "height": 50.211875915527344
+            }
+        },
+        {
             "name": "Kivisäki (linna)",
             "position": {
                 "lat": 58.42599916270652,
@@ -377,6 +641,22 @@
             }
         },
         {
+            "name": "Kraavikalda (Kasteheina suunas)",
+            "position": {
+                "lat": 58.3466576425002,
+                "lng": 26.773925580017018,
+                "height": 36.56312561035156
+            }
+        },
+        {
+            "name": "Kraavikalda (kesklinna suunas)",
+            "position": {
+                "lat": 58.3471245631567,
+                "lng": 26.77329275383322,
+                "height": 36.377498626708984
+            }
+        },
+        {
             "name": "Kreutzwaldi (linna)",
             "position": {
                 "lat": 58.38566525384244,
@@ -414,6 +694,14 @@
                 "lat": 58.39820756275706,
                 "lng": 26.724581308655324,
                 "height": 48.461875915527344
+            }
+        },
+        {
+            "name": "Kummeli (linna sisenev)",
+            "position": {
+                "lat": 58.40109299145174,
+                "lng": 26.719375753890034,
+                "height": 48.9162483215332
             }
         },
         {
@@ -497,6 +785,78 @@
             }
         },
         {
+            "name": "Lammi (Annelinna suunas)",
+            "position": {
+                "lat": 58.35954000390835,
+                "lng": 26.77785055752555,
+                "height": 36.70124816894531
+            }
+        },
+        {
+            "name": "Lammi (Kasteheina suunas)",
+            "position": {
+                "lat": 58.35935535599587,
+                "lng": 26.777786141434355,
+                "height": 36.413124084472656
+            }
+        },
+        {
+            "name": "Lammi ring (Annelinna suunas)",
+            "position": {
+                "lat": 58.36424033893219,
+                "lng": 26.769220150892096,
+                "height": 35.704376220703125
+            }
+        },
+        {
+            "name": "Lammi ring (Võru tn suunas)",
+            "position": {
+                "lat": 58.36173076310298,
+                "lng": 26.771413688542804,
+                "height": 37.89624786376953
+            }
+        },
+        {
+            "name": "Lammimõisa (linna sisenev)",
+            "position": {
+                "lat": 58.36723465706448,
+                "lng": 26.768643731180973,
+                "height": 34.93562316894531
+            }
+        },
+        {
+            "name": "Lammimõisa (linnast väljuv)",
+            "position": {
+                "lat": 58.36642158889781,
+                "lng": 26.768114776008616,
+                "height": 34.04874801635742
+            }
+        },
+        {
+            "name": "Lao",
+            "position": {
+                "lat": 58.368165083542195,
+                "lng": 26.79823973963963,
+                "height": 47.446876525878906
+            }
+        },
+        {
+            "name": "Lehe (linna sisenev)",
+            "position": {
+                "lat": 58.38671764695603,
+                "lng": 26.758401819194198,
+                "height": 51.50562286376953
+            }
+        },
+        {
+            "name": "Lehe (linnast väljuv)",
+            "position": {
+                "lat": 58.38675827209045,
+                "lng": 26.75863766680056,
+                "height": 51.59874725341797
+            }
+        },
+        {
             "name": "Lembitu",
             "position": {
                 "lat": 58.36929652044244,
@@ -521,11 +881,67 @@
             }
         },
         {
+            "name": "Linnupargi (linna sisenev)",
+            "position": {
+                "lat": 58.366302757003936,
+                "lng": 26.762601684261156,
+                "height": 33.178749084472656
+            }
+        },
+        {
+            "name": "Linnupargi (linnast väljuv)",
+            "position": {
+                "lat": 58.366681577099,
+                "lng": 26.761260053703356,
+                "height": 33.35874938964844
+            }
+        },
+        {
+            "name": "Lohkva Katlamaja",
+            "position": {
+                "lat": 58.37029212793146,
+                "lng": 26.79259550967783,
+                "height": 52.72812271118164
+            }
+        },
+        {
+            "name": "Lohkva katlamaja (Nõlvaku suunas)",
+            "position": {
+                "lat": 58.370396543656,
+                "lng": 26.791288467355347,
+                "height": 52.55437469482422
+            }
+        },
+        {
             "name": "Lootuse (Kesklinna suunas)",
             "position": {
                 "lat": 58.3694234645492,
                 "lng": 26.721528443713783,
                 "height": 55.78437423706055
+            }
+        },
+        {
+            "name": "Luha",
+            "position": {
+                "lat": 58.37223647039871,
+                "lng": 26.753619569921693,
+                "height": 33.56624984741211
+            }
+        },
+        {
+            "name": "Lõkketule (Hipodroomi suunas)",
+            "position": {
+                "lat": 58.346053359953935,
+                "lng": 26.782747354197845,
+                "height": 41.946250915527344
+            }
+        },
+        {
+            "name": "Lõkketule (Kasteheina suunas)",
+            "position": {
+                "lat": 58.346413762848215,
+                "lng": 26.78350455581866,
+                "height": 41.69562530517578
             }
         },
         {
@@ -649,11 +1065,35 @@
             }
         },
         {
+            "name": "Männi (Sõpruse ringi suunas)",
+            "position": {
+                "lat": 58.380557247185884,
+                "lng": 26.753447563186576,
+                "height": 42.04999923706055
+            }
+        },
+        {
+            "name": "Männimetsa (Kasteheina suunas)",
+            "position": {
+                "lat": 58.35340316924921,
+                "lng": 26.76620387739573,
+                "height": 33.95249938964844
+            }
+        },
+        {
+            "name": "Männimetsa (Kesklinna suunas)",
+            "position": {
+                "lat": 58.353167536081855,
+                "lng": 26.766512861048056,
+                "height": 34.03125
+            }
+        },
+        {
             "name": "Mõisapargi",
             "position": {
-                "lat": 58.400831307903836,
-                "lng": 26.727194274291392,
-                "height": 50.23749923706055
+                "lat": 58.40073989216063,
+                "lng": 26.727705271288826,
+                "height": 50.19499969482422
             }
         },
         {
@@ -662,6 +1102,22 @@
                 "lat": 58.399897916038505,
                 "lng": 26.729290992428094,
                 "height": 50.09187316894531
+            }
+        },
+        {
+            "name": "Mõisavahe (Kesklinna suunas)",
+            "position": {
+                "lat": 58.36950374859369,
+                "lng": 26.775243229316704,
+                "height": 44.74374771118164
+            }
+        },
+        {
+            "name": "Mõisavahe (Nõlvaku suunas)",
+            "position": {
+                "lat": 58.36935904778993,
+                "lng": 26.775313568424387,
+                "height": 44.661251068115234
             }
         },
         {
@@ -729,11 +1185,59 @@
             }
         },
         {
+            "name": "Nõlvaku (Ihaste suunas)",
+            "position": {
+                "lat": 58.37274717411142,
+                "lng": 26.780426172805914,
+                "height": 52.36750030517578
+            }
+        },
+        {
             "name": "Orava",
             "position": {
                 "lat": 58.391503000387935,
                 "lng": 26.730394052543083,
                 "height": 52.955623626708984
+            }
+        },
+        {
+            "name": "Paju (Annelinna suunas)",
+            "position": {
+                "lat": 58.382335577424314,
+                "lng": 26.746825124534553,
+                "height": 36.975624084472656
+            }
+        },
+        {
+            "name": "Paju (Kesklinna suunas)",
+            "position": {
+                "lat": 58.38261262913638,
+                "lng": 26.74577767943971,
+                "height": 37.30875015258789
+            }
+        },
+        {
+            "name": "Pallase puiestee (Kasteheina suunas)",
+            "position": {
+                "lat": 58.35877592791175,
+                "lng": 26.784279931729138,
+                "height": 39.1506233215332
+            }
+        },
+        {
+            "name": "Pallase puiestee (Kesklinna suunas)",
+            "position": {
+                "lat": 58.358885999262284,
+                "lng": 26.782826630821628,
+                "height": 38.69124984741211
+            }
+        },
+        {
+            "name": "Palmihoone (Kesklinna suunas)",
+            "position": {
+                "lat": 58.38321179267632,
+                "lng": 26.723620636322654,
+                "height": 34.64437484741211
             }
         },
         {
@@ -793,6 +1297,30 @@
             }
         },
         {
+            "name": "Pikk (Annelinna suunas)",
+            "position": {
+                "lat": 58.38038534513481,
+                "lng": 26.737862955515798,
+                "height": 32.98124694824219
+            }
+        },
+        {
+            "name": "Pikk (Raatuse tn. suunas)",
+            "position": {
+                "lat": 58.38113830540099,
+                "lng": 26.736946034295,
+                "height": 33.01937484741211
+            }
+        },
+        {
+            "name": "Prisma",
+            "position": {
+                "lat": 58.37609546022983,
+                "lng": 26.77879107564472,
+                "height": 58.35687255859375
+            }
+        },
+        {
             "name": "Puidu",
             "position": {
                 "lat": 58.39113939311528,
@@ -809,11 +1337,51 @@
             }
         },
         {
+            "name": "Puiestee (Narva mnt. suunas)",
+            "position": {
+                "lat": 58.3845456541142,
+                "lng": 26.742970333990034,
+                "height": 45.236873626708984
+            }
+        },
+        {
+            "name": "Puiestee (Sõpruse pst. suunas)",
+            "position": {
+                "lat": 58.384041023795795,
+                "lng": 26.744134174702822,
+                "height": 42.860626220703125
+            }
+        },
+        {
+            "name": "Puupilli",
+            "position": {
+                "lat": 58.36566005077002,
+                "lng": 26.79853164361449,
+                "height": 43.57062530517578
+            }
+        },
+        {
+            "name": "Puupilli",
+            "position": {
+                "lat": 58.36724405556812,
+                "lng": 26.798494896516736,
+                "height": 46.60312271118164
+            }
+        },
+        {
             "name": "Puusepa",
             "position": {
                 "lat": 58.36669997476482,
                 "lng": 26.70364603265339,
                 "height": 69.34312438964844
+            }
+        },
+        {
+            "name": "Põllu (Kummeli tn. suunas)",
+            "position": {
+                "lat": 58.39841321462371,
+                "lng": 26.709879238687343,
+                "height": 49.77124786376953
             }
         },
         {
@@ -841,11 +1409,67 @@
             }
         },
         {
+            "name": "Raadiraja (linna sisenev)",
+            "position": {
+                "lat": 58.39508465867746,
+                "lng": 26.754382582166137,
+                "height": 56.34562301635742
+            }
+        },
+        {
+            "name": "Raadiraja (linnast väljuv)",
+            "position": {
+                "lat": 58.39539889572789,
+                "lng": 26.755361707949216,
+                "height": 57.12562561035156
+            }
+        },
+        {
+            "name": "Raatuse (kesklinna suunas)",
+            "position": {
+                "lat": 58.38244145142297,
+                "lng": 26.732482250677094,
+                "height": 33.14125061035156
+            }
+        },
+        {
+            "name": "Raatuse (linnast väljuv)",
+            "position": {
+                "lat": 58.3823209775866,
+                "lng": 26.73235351079089,
+                "height": 33.34437561035156
+            }
+        },
+        {
             "name": "Raeplats (linna)",
             "position": {
                 "lat": 58.37972237038812,
                 "lng": 26.72581852210892,
                 "height": 35.46437454223633
+            }
+        },
+        {
+            "name": "Raeplats (maale)",
+            "position": {
+                "lat": 58.3813265073692,
+                "lng": 26.7247047458205,
+                "height": 34.53687286376953
+            }
+        },
+        {
+            "name": "Rahumäe (Kalda tee suunas)",
+            "position": {
+                "lat": 58.37864602174087,
+                "lng": 26.770526016425254,
+                "height": 55.361873626708984
+            }
+        },
+        {
+            "name": "Rahumäe (Nõlvaku suunas)",
+            "position": {
+                "lat": 58.379075267919276,
+                "lng": 26.773291653083536,
+                "height": 59.32062530517578
             }
         },
         {
@@ -1065,6 +1689,22 @@
             }
         },
         {
+            "name": "Soojuse tee (linna sisenev)",
+            "position": {
+                "lat": 58.37102725834218,
+                "lng": 26.785259766597918,
+                "height": 52.073123931884766
+            }
+        },
+        {
+            "name": "Soojuse tee (linnast väljuv)",
+            "position": {
+                "lat": 58.37100078266487,
+                "lng": 26.7849909180356,
+                "height": 52.15312194824219
+            }
+        },
+        {
             "name": "Soola (Tasku)",
             "position": {
                 "lat": 58.3774615077504,
@@ -1102,6 +1742,22 @@
                 "lat": 58.44462366043396,
                 "lng": 26.620144659543886,
                 "height": 39.95062255859375
+            }
+        },
+        {
+            "name": "Sõpruse puiestee (Kaunase pst. suunas)",
+            "position": {
+                "lat": 58.38070480577316,
+                "lng": 26.75515845647939,
+                "height": 43.83625030517578
+            }
+        },
+        {
+            "name": "Sõpruse puiestee (Puiestee tn. suunas)",
+            "position": {
+                "lat": 58.38123810121438,
+                "lng": 26.752489867791656,
+                "height": 42.61000061035156
             }
         },
         {
@@ -1281,6 +1937,22 @@
             }
         },
         {
+            "name": "Triigi (Annelinna suunas)",
+            "position": {
+                "lat": 58.356015328951386,
+                "lng": 26.788992464140204,
+                "height": 44.901248931884766
+            }
+        },
+        {
+            "name": "Triigi (Kasteheina suunas)",
+            "position": {
+                "lat": 58.35498359181904,
+                "lng": 26.788874740973228,
+                "height": 46.13749694824219
+            }
+        },
+        {
             "name": "Tuglase (Kreutzwaldi tn. suunas)",
             "position": {
                 "lat": 58.386212236843356,
@@ -1345,11 +2017,51 @@
             }
         },
         {
+            "name": "Tüve (linna sisenev)",
+            "position": {
+                "lat": 58.384980834545416,
+                "lng": 26.756830144915153,
+                "height": 49.26937484741211
+            }
+        },
+        {
+            "name": "Tüve (linnast väljuv)",
+            "position": {
+                "lat": 58.38494350119298,
+                "lng": 26.757014732542412,
+                "height": 49.66437530517578
+            }
+        },
+        {
+            "name": "Uus-Veeriku",
+            "position": {
+                "lat": 58.35660759252612,
+                "lng": 26.794312498609504,
+                "height": 43.97312545776367
+            }
+        },
+        {
+            "name": "Uus-Veeriku (Kasteheina suunas)",
+            "position": {
+                "lat": 58.35488998625193,
+                "lng": 26.792488455578763,
+                "height": 48.30937194824219
+            }
+        },
+        {
             "name": "Vabaduse puiestee (maale)",
             "position": {
                 "lat": 58.37912232867339,
                 "lng": 26.727219079875574,
                 "height": 35.69062423706055
+            }
+        },
+        {
+            "name": "Vabadussild (maale)",
+            "position": {
+                "lat": 58.38336485937513,
+                "lng": 26.723665688422646,
+                "height": 34.36249923706055
             }
         },
         {
@@ -1414,6 +2126,22 @@
                 "lat": 58.38667217015892,
                 "lng": 26.72685540137343,
                 "height": 35.373748779296875
+            }
+        },
+        {
+            "name": "Viadukti (Annelinna suunas)",
+            "position": {
+                "lat": 58.356316612649714,
+                "lng": 26.764770824445826,
+                "height": 37.64249801635742
+            }
+        },
+        {
+            "name": "Viadukti (Võru tn suunas)",
+            "position": {
+                "lat": 58.354709052664084,
+                "lng": 26.762709125987985,
+                "height": 37.45874786376953
             }
         },
         {
