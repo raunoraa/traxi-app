@@ -67,5 +67,8 @@
 	"drive_mode_auto": "Autonomous",
 	"drive_mode_manual": "Manual",
 	"drive_mode_unknown": "Unknown",
-	"planner_status_label": "Status"
+	"planner_status_label": "Status",
+	"bus_stop_no_route_found": "No route found between selected stops. Try different stops.",
+	"bus_stop_stops_too_close": "Pickup and dropoff stops are too close. Choose a different pickup or destination.",
+	"bus_stop_min_distance_hint": "Min. pickup to dropoff drive distance: {min_distance}"
 }

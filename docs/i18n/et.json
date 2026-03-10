@@ -67,5 +67,8 @@
 	"drive_mode_auto": "Autonoomne",
 	"drive_mode_manual": "Manuaalne",
 	"drive_mode_unknown": "Teadmata",
-	"planner_status_label": "Olek"
+	"planner_status_label": "Olek",
+	"bus_stop_no_route_found": "Valitud peatuste vahel marsruuti ei leitud. Proovige teisi peatusi.",
+	"bus_stop_stops_too_close": "Pealevõtu- ja mahaminekupeatus on liiga lähedal. Valige teine pealevõtu- või mahaminekupeatus.",
+	"bus_stop_min_distance_hint": "Min. sõidukaugus pealevõtust mahaminekuni: {min_distance}"
 }
