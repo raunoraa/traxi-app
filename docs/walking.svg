@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <circle cx="12" cy="4" r="2.5" fill="#2196F3"/>
+  <!-- Body and legs - walking pose -->
+  <path d="M13.5 7H10.5L9 10L10.5 11L12 9V14L9 22H11L13 16L15 22H17L14 14V11L16.5 9L15 7H13.5Z" fill="#2196F3" stroke="#1565C0" stroke-width="0.5"/>
+  <!-- Arms -->
+  <path d="M10 9L7 12M14 9L17 11" stroke="#2196F3" stroke-width="2" stroke-linecap="round"/>
+</svg>
