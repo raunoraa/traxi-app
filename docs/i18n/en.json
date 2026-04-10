@@ -64,11 +64,18 @@
 	"speed_label": "Speed",
 	"remaining_label": "Remaining",
 	"drive_mode_label": "Drive mode",
-	"drive_mode_auto": "Autonomous",
+	"drive_mode_autonomous": "Autonomous",
 	"drive_mode_manual": "Manual",
-	"drive_mode_unknown": "Unknown",
+	"drive_mode_assistance": "Remote Assistance",
+	"drive_mode_assist_drive": "RA: driving",
+	"drive_mode_assist_stop": "RA: stopping",
 	"planner_status_label": "Status",
 	"bus_stop_no_route_found": "No route found between selected stops. Try different stops.",
 	"bus_stop_stops_too_close": "Pickup and dropoff stops are too close. Choose a different pickup or destination.",
-	"bus_stop_min_distance_hint": "Min. pickup to dropoff drive distance: {min_distance}"
+	"bus_stop_min_distance_hint": "Min. pickup to dropoff drive distance: {min_distance}",
+	"center_on_location": "Center on my location",
+	"confirm_now_button": "Confirm now",
+	"cancel_button": "Cancel",
+	"confirming_in": "Confirming in",
+	"reconnecting": "Reconnecting"
 }
