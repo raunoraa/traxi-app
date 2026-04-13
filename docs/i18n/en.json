@@ -46,6 +46,7 @@
 	"walking_time": "{time} walk",
 	"eta_label": "ETA:",
 	"finding_bus_stops": "Finding nearby stops...",
+	"finding_best_route": "Finding the best route...",
 	"polyline_walking_to_pickup": "Walking to pickup",
 	"polyline_car_ride": "Pickup to dropoff",
 	"polyline_walking_to_destination": "Walking to destination",

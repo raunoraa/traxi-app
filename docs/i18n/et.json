@@ -46,6 +46,7 @@
 	"walking_time": "{time} kõndida",
 	"eta_label": "Saabub:",
 	"finding_bus_stops": "Otsin bussipeatusi...",
+	"finding_best_route": "Otsin parimat marsruuti...",
 	"polyline_walking_to_pickup": "Kõnd pealevõtu juurde",
 	"polyline_car_ride": "Pealevõtust mahaminekuni",
 	"polyline_walking_to_destination": "Kõnd sihtkohta",
