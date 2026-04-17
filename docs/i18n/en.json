@@ -73,7 +73,7 @@
 	"planner_status_label": "Status",
 	"bus_stop_no_route_found": "No route found between selected stops. Try different stops.",
 	"bus_stop_stops_too_close": "Pickup and dropoff stops are too close. Choose a different pickup or destination.",
-	"bus_stop_car_no_route": "The car cannot reach the pickup stop. It may be off the road network.",
+	"bus_stop_car_no_route": "The car cannot reach the chosen pickup stop.",
 	"bus_stop_min_distance_hint": "Min. pickup to dropoff drive distance: {min_distance}",
 	"center_on_location": "Center on my location",
 	"confirm_now_button": "Confirm now",
