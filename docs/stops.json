@@ -6,7 +6,8 @@
                 "lat": 58.38532325807102,
                 "lng": 26.726263920563593,
                 "height": 34.514373779296875
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Aardla (Aardla tn. suunas)",
@@ -14,7 +15,8 @@
                 "lat": 58.354911360306,
                 "lng": 26.722956725825927,
                 "height": 55.65187454223633
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Aardla (linnast väljuv)",
@@ -22,7 +24,8 @@
                 "lat": 58.35446365783429,
                 "lng": 26.721056977850903,
                 "height": 56.61000061035156
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Aardla (linnast väljuv)",
@@ -30,7 +33,8 @@
                 "lat": 58.35470107050647,
                 "lng": 26.722790706279074,
                 "height": 55.61874771118164
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Aiandi",
@@ -38,7 +42,8 @@
                 "lat": 58.394404371654815,
                 "lng": 26.716029802614838,
                 "height": 51.36437225341797
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Aianduse (linna sisenev)",
@@ -46,7 +51,8 @@
                 "lat": 58.35132954012636,
                 "lng": 26.718740558446797,
                 "height": 57.61249923706055
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Aianduse (linnast väljuv)",
@@ -54,7 +60,8 @@
                 "lat": 58.35038764899474,
                 "lng": 26.717829779853357,
                 "height": 57.31062316894531
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Aida (linnast väljuv)",
@@ -62,7 +69,8 @@
                 "lat": 58.373231058494866,
                 "lng": 26.736835216136882,
                 "height": 33.97187423706055
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Akvarelli (Nõlvaku suunas)",
@@ -86,7 +94,8 @@
                 "lat": 58.34784561260465,
                 "lng": 26.717269036106018,
                 "height": 55.701873779296875
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Alasi (Võru tn. suunas)",
@@ -94,7 +103,8 @@
                 "lat": 58.34797106504487,
                 "lng": 26.717039340180232,
                 "height": 56.104373931884766
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Alevi",
@@ -102,7 +112,8 @@
                 "lat": 58.362023092803426,
                 "lng": 26.730641572364032,
                 "height": 47.80624771118164
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Anne (Jaama tn. suunas)",
@@ -110,7 +121,8 @@
                 "lat": 58.378086561001815,
                 "lng": 26.751793196261342,
                 "height": 34.521873474121094
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Anne (Sõpruse ringi suunas)",
@@ -118,7 +130,8 @@
                 "lat": 58.37709619673756,
                 "lng": 26.75072279226086,
                 "height": 33.98999786376953
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annelinna gümnaasium (Jaama tn. suunas)",
@@ -126,7 +139,8 @@
                 "lat": 58.375941207458865,
                 "lng": 26.77043559727758,
                 "height": 50.381248474121094
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annelinna gümnaasium (Kalda tee suunas)",
@@ -134,7 +148,8 @@
                 "lat": 58.37547794006395,
                 "lng": 26.76963322520155,
                 "height": 48.47812271118164
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annelinna keskus (Kesklinna suunas)",
@@ -142,7 +157,8 @@
                 "lat": 58.37045274047449,
                 "lng": 26.766701320002223,
                 "height": 38.358123779296875
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annelinna keskus (Mõisavahe tn. suunas)",
@@ -150,7 +166,8 @@
                 "lat": 58.369545258399995,
                 "lng": 26.767501059758178,
                 "height": 37.473121643066406
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annemõisa (Kaunase pst. suunas)",
@@ -158,7 +175,8 @@
                 "lat": 58.37848670925676,
                 "lng": 26.775998624924622,
                 "height": 60.54499816894531
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Annemõisa (Nõlvaku suunas)",
@@ -166,7 +184,8 @@
                 "lat": 58.37676964498329,
                 "lng": 26.777885984560424,
                 "height": 59.84937286376953
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Arhitekti (linna sisenev)",
@@ -174,7 +193,8 @@
                 "lat": 58.36818677636611,
                 "lng": 26.68327830004127,
                 "height": 68.59375
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Arhitekti (linnast väljuv)",
@@ -182,7 +202,8 @@
                 "lat": 58.36817919506606,
                 "lng": 26.68277740544286,
                 "height": 68.40937042236328
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Atlantis (linna sisenev)",
@@ -190,7 +211,8 @@
                 "lat": 58.381230525460914,
                 "lng": 26.72889596227438,
                 "height": 34.64125061035156
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Aura veekeskus (linna sisenev)",
@@ -198,7 +220,8 @@
                 "lat": 58.37569057251399,
                 "lng": 26.73307781836867,
                 "height": 34.73187255859375
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Autokeskus (FI suunas)",
@@ -206,7 +229,8 @@
                 "lat": 58.35536600875702,
                 "lng": 26.719671701860165,
                 "height": 56.72187423706055
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Autokeskus (Ropkamõisa suunas)",
@@ -214,7 +238,8 @@
                 "lat": 58.35512481719684,
                 "lng": 26.717053744048116,
                 "height": 57.91562271118164
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Betooni (Hiie tn. suunas)",
@@ -222,7 +247,8 @@
                 "lat": 58.38366009029558,
                 "lng": 26.69129468979872,
                 "height": 55.91812515258789
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Betooni (Tuglase tn. suunas)",
@@ -230,7 +256,8 @@
                 "lat": 58.38361348801004,
                 "lng": 26.691569443050557,
                 "height": 56.13750076293945
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "E-Kaubamaja (Kesklinna suunas)",
@@ -238,7 +265,8 @@
                 "lat": 58.35914759489331,
                 "lng": 26.730892388294517,
                 "height": 50.209373474121094
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "E-Kaubamaja (Ropkamõisa suunas)",
@@ -246,7 +274,8 @@
                 "lat": 58.35845081623857,
                 "lng": 26.730780754152583,
                 "height": 49.671875
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "ERM (linna sisenev)",
@@ -270,7 +299,8 @@
                 "lat": 58.37383445196595,
                 "lng": 26.75134857821433,
                 "height": 34.22687530517578
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Eeden (Sõpruse ringi suunas)",
@@ -278,7 +308,8 @@
                 "lat": 58.37379459631662,
                 "lng": 26.752394769723487,
                 "height": 34.54874801635742
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Eerika (kesklinna suunas)",
@@ -294,7 +325,8 @@
                 "lat": 58.370270177528276,
                 "lng": 26.72756101753735,
                 "height": 49.73999786376953
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Eha (linnast väljuv)",
@@ -302,7 +334,8 @@
                 "lat": 58.36981141215051,
                 "lng": 26.72779418049121,
                 "height": 51.12687301635742
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Erminurme (linna sisenev)",
@@ -326,7 +359,8 @@
                 "lat": 58.35349102282994,
                 "lng": 26.68084579322511,
                 "height": 77.43687438964844
-            }
+            },
+            "district": "Ränilinna"
         },
         {
             "name": "Fi (Tamme pst. suunas)",
@@ -334,7 +368,8 @@
                 "lat": 58.35338124797022,
                 "lng": 26.681038301022767,
                 "height": 77.19249725341797
-            }
+            },
+            "district": "Ränilinna"
         },
         {
             "name": "Herne (Kesklinna suunas)",
@@ -342,7 +377,8 @@
                 "lat": 58.386274523235706,
                 "lng": 26.714024841605728,
                 "height": 33.73999786376953
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Herne (linnast väljuv)",
@@ -350,7 +386,8 @@
                 "lat": 58.38597247313043,
                 "lng": 26.714855725997534,
                 "height": 33.666873931884766
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Hiie (Taara pst. suuanas)",
@@ -358,7 +395,8 @@
                 "lat": 58.38294370297139,
                 "lng": 26.696588502637937,
                 "height": 56.72374725341797
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Hiie (Vaksali tn. suunas)",
@@ -366,7 +404,8 @@
                 "lat": 58.38316440465667,
                 "lng": 26.696800062382557,
                 "height": 56.62687301635742
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Hurda (linna)",
@@ -374,7 +413,8 @@
                 "lat": 58.38373394803316,
                 "lng": 26.708623969098227,
                 "height": 60.15187454223633
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Hurda (maale)",
@@ -382,7 +422,8 @@
                 "lat": 58.38351817059219,
                 "lng": 26.70961167042237,
                 "height": 60.83250045776367
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Ihaste (Kasteheina suunas)",
@@ -390,7 +431,8 @@
                 "lat": 58.34487077882916,
                 "lng": 26.779582420310852,
                 "height": 40.72999954223633
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Ihaste (Kraavikalda suunas)",
@@ -398,7 +440,8 @@
                 "lat": 58.34493540131655,
                 "lng": 26.779367070208647,
                 "height": 40.62062454223633
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Ihaste tee I (Ihaste suunas)",
@@ -406,7 +449,8 @@
                 "lat": 58.36492893456245,
                 "lng": 26.758642729865155,
                 "height": 32.84937286376953
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Ihaste tee I (Kesklinna suunas)",
@@ -414,7 +458,8 @@
                 "lat": 58.3651681734102,
                 "lng": 26.75879413821389,
                 "height": 33.041873931884766
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Ihaste tee II (Ihaste suunas)",
@@ -422,7 +467,8 @@
                 "lat": 58.3600298265848,
                 "lng": 26.759594474408345,
                 "height": 32.92499923706055
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Ihaste tee II (Kesklinna suunas)",
@@ -430,7 +476,8 @@
                 "lat": 58.3611697270153,
                 "lng": 26.75974510115715,
                 "height": 33.224998474121094
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Iie (linna)",
@@ -454,7 +501,8 @@
                 "lat": 58.37675666381188,
                 "lng": 26.690359340515826,
                 "height": 60.64187240600586
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Ilmatsalu (Ravila tn. suunas)",
@@ -462,7 +510,8 @@
                 "lat": 58.37713422822446,
                 "lng": 26.688898777018075,
                 "height": 60.818748474121094
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Jaama (kesklinna suunas)",
@@ -470,7 +519,8 @@
                 "lat": 58.38406506848771,
                 "lng": 26.740256175523047,
                 "height": 36.564998626708984
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Jaama (linnast väljuv)",
@@ -478,7 +528,8 @@
                 "lat": 58.38394815300129,
                 "lng": 26.74033738585317,
                 "height": 36.55812454223633
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Jalaka (Turu tn. suunas)",
@@ -486,7 +537,8 @@
                 "lat": 58.342842293600235,
                 "lng": 26.72377860927564,
                 "height": 50.811248779296875
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Jalaka (Võru tn suunas)",
@@ -494,7 +546,8 @@
                 "lat": 58.34315096847937,
                 "lng": 26.723631927870777,
                 "height": 51.05937194824219
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Jannseni (Raudteejaama suunas)",
@@ -502,7 +555,8 @@
                 "lat": 58.38120140950555,
                 "lng": 26.694989721942896,
                 "height": 58.270626068115234
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Jannseni (Tuglase tn. suunas)",
@@ -510,7 +564,8 @@
                 "lat": 58.38193659383054,
                 "lng": 26.693967035976414,
                 "height": 57.260623931884766
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Jänese",
@@ -518,7 +573,8 @@
                 "lat": 58.39232880192333,
                 "lng": 26.731760866520993,
                 "height": 52.984375
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Jõe",
@@ -526,7 +582,8 @@
                 "lat": 58.37063652754849,
                 "lng": 26.739753267829016,
                 "height": 34.50749969482422
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Kaare (FI suunas)",
@@ -534,7 +591,8 @@
                 "lat": 58.366144102048466,
                 "lng": 26.703119272055886,
                 "height": 70.58875274658203
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kaare (Kesklinna suunas)",
@@ -542,7 +600,8 @@
                 "lat": 58.36655335300393,
                 "lng": 26.704489021481763,
                 "height": 69.93562316894531
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kabeli (Aardla tn. suunas)",
@@ -550,7 +609,8 @@
                 "lat": 58.35917178098705,
                 "lng": 26.721373600605283,
                 "height": 57.52812576293945
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Kalda tee (Annelinna suunas)",
@@ -558,7 +618,8 @@
                 "lat": 58.37208850329216,
                 "lng": 26.759663576860905,
                 "height": 35.73937225341797
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kalda tee (Kesklinna suunas)",
@@ -566,7 +627,8 @@
                 "lat": 58.37252221700337,
                 "lng": 26.75751545546272,
                 "height": 35.58937454223633
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kana-Oleski (linna)",
@@ -590,7 +652,8 @@
                 "lat": 58.376693877515685,
                 "lng": 26.744578742385,
                 "height": 33.69187545776367
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kanali (Sõpruse pst. suunas)",
@@ -598,7 +661,8 @@
                 "lat": 58.375847220832384,
                 "lng": 26.74589586755658,
                 "height": 33.55875015258789
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kannikese (Ilmatsalu tn. suunas)",
@@ -606,7 +670,8 @@
                 "lat": 58.37699050968871,
                 "lng": 26.68379670724456,
                 "height": 61.30562210083008
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Kannikese (Viljandi mnt. suunas)",
@@ -614,7 +679,8 @@
                 "lat": 58.37674407284749,
                 "lng": 26.683582844767535,
                 "height": 61.4693717956543
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Kardla kool (linna)",
@@ -654,7 +720,8 @@
                 "lat": 58.34912590342471,
                 "lng": 26.723409405860757,
                 "height": 54.48187255859375
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Karete (Alasi tn. suunas)",
@@ -662,7 +729,8 @@
                 "lat": 58.350023706494596,
                 "lng": 26.72321130479423,
                 "height": 55.518123626708984
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Karlova kool",
@@ -670,7 +738,8 @@
                 "lat": 58.37173644289598,
                 "lng": 26.732949755136854,
                 "height": 41.82062530517578
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Kasarmu (Narva mnt. suunas)",
@@ -678,7 +747,8 @@
                 "lat": 58.386603643822504,
                 "lng": 26.737179960600425,
                 "height": 50.75937271118164
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kastani (linna sisenev)",
@@ -686,7 +756,8 @@
                 "lat": 58.36571808346228,
                 "lng": 26.72151143317423,
                 "height": 55.98500061035156
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Kastani (linnast väljuv)",
@@ -694,7 +765,8 @@
                 "lat": 58.36479686666297,
                 "lng": 26.72116946211117,
                 "height": 56.50374984741211
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Kasteheina (Hipodroomi suunas)",
@@ -702,7 +774,8 @@
                 "lat": 58.349239714209396,
                 "lng": 26.787491335967335,
                 "height": 45.271873474121094
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Kasteheina (Pallase pst. suunas)",
@@ -710,7 +783,8 @@
                 "lat": 58.34930630646207,
                 "lng": 26.787719602723225,
                 "height": 45.30187225341797
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Kaubajaam",
@@ -718,7 +792,8 @@
                 "lat": 58.36972015653435,
                 "lng": 26.707456386337007,
                 "height": 62.689998626708984
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kaunase puiestee (Jaama tn. suunas)",
@@ -726,7 +801,8 @@
                 "lat": 58.37154833633201,
                 "lng": 26.766518113062002,
                 "height": 38.70062255859375
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kaunase puiestee (Kesklinna suunas)",
@@ -734,7 +810,8 @@
                 "lat": 58.37169044714869,
                 "lng": 26.76376183253856,
                 "height": 37.37687683105469
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kaupmehe (Kõrveküla suunas)",
@@ -758,7 +835,8 @@
                 "lat": 58.348590420270575,
                 "lng": 26.70417493199112,
                 "height": 61.41749954223633
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kesa (Kesklinna suunas)",
@@ -766,7 +844,8 @@
                 "lat": 58.34855607968601,
                 "lng": 26.704904548952662,
                 "height": 60.96875
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kesk kaar (raudtee suunas)",
@@ -774,7 +853,8 @@
                 "lat": 58.365848008120146,
                 "lng": 26.704127037658075,
                 "height": 70.79437255859375
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kesklinn (Lõpp-peatus)",
@@ -782,7 +862,8 @@
                 "lat": 58.37722696432968,
                 "lng": 26.727870192267574,
                 "height": 37.182498931884766
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn I",
@@ -790,7 +871,8 @@
                 "lat": 58.37677386173414,
                 "lng": 26.726861434698954,
                 "height": 40.59937286376953
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn II",
@@ -798,7 +880,8 @@
                 "lat": 58.37724738605336,
                 "lng": 26.727917843058677,
                 "height": 37.10874938964844
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn III",
@@ -806,7 +889,8 @@
                 "lat": 58.37750266291346,
                 "lng": 26.728538760409922,
                 "height": 35.79312515258789
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn IV",
@@ -814,7 +898,8 @@
                 "lat": 58.3775891647219,
                 "lng": 26.72790850432179,
                 "height": 36.48999786376953
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn V",
@@ -822,7 +907,8 @@
                 "lat": 58.37745946055825,
                 "lng": 26.727636310464657,
                 "height": 37.046875
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Kesklinn VI",
@@ -830,7 +916,8 @@
                 "lat": 58.37690994056366,
                 "lng": 26.72651058815396,
                 "height": 40.94687271118164
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Killustiku (linna sisenev)",
@@ -838,7 +925,8 @@
                 "lat": 58.39732505157847,
                 "lng": 26.73427052961748,
                 "height": 51.20499801635742
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Killustiku (linnast väljuv)",
@@ -846,7 +934,8 @@
                 "lat": 58.39786392234868,
                 "lng": 26.73332536930743,
                 "height": 51.416873931884766
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kivilinna (Kaunase pst. suunas)",
@@ -854,7 +943,8 @@
                 "lat": 58.37999942503609,
                 "lng": 26.76392473856835,
                 "height": 50.38687515258789
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Kivilinna (Sõpruse pst. suunas)",
@@ -862,7 +952,8 @@
                 "lat": 58.38015047491227,
                 "lng": 26.763895075326463,
                 "height": 50.211875915527344
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Kivisäki (linna)",
@@ -886,7 +977,8 @@
                 "lat": 58.4064089746326,
                 "lng": 26.703860793992824,
                 "height": 35.07875061035156
-            }
+            },
+            "district": "Kvissentali"
         },
         {
             "name": "Kloostri",
@@ -894,7 +986,8 @@
                 "lat": 58.384088376786394,
                 "lng": 26.716544553368053,
                 "height": 36.875
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Kopli (kesklinna suunas)",
@@ -902,7 +995,8 @@
                 "lat": 58.34858296782806,
                 "lng": 26.709891339549742,
                 "height": 58.81624984741211
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kopli (linnast väljuv)",
@@ -910,7 +1004,8 @@
                 "lat": 58.34862597691712,
                 "lng": 26.710143237119002,
                 "height": 58.72812271118164
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kraavi (kesklinna suunas)",
@@ -918,7 +1013,8 @@
                 "lat": 58.35377665598009,
                 "lng": 26.708203573521544,
                 "height": 62.20874786376953
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kraavi (linnast väljuv)",
@@ -926,7 +1022,8 @@
                 "lat": 58.353505150473836,
                 "lng": 26.70749966492178,
                 "height": 62.65687561035156
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Kraavikalda (Kasteheina suunas)",
@@ -934,7 +1031,8 @@
                 "lat": 58.3466576425002,
                 "lng": 26.773925580017018,
                 "height": 36.56312561035156
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Kraavikalda (kesklinna suunas)",
@@ -942,7 +1040,8 @@
                 "lat": 58.3471245631567,
                 "lng": 26.77329275383322,
                 "height": 36.377498626708984
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Kreutzwaldi (linna)",
@@ -950,7 +1049,8 @@
                 "lat": 58.38566525384244,
                 "lng": 26.700561341224066,
                 "height": 54.701873779296875
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Kreutzwaldi (maale)",
@@ -958,7 +1058,8 @@
                 "lat": 58.385478640582214,
                 "lng": 26.70160505692436,
                 "height": 55.58374786376953
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Kroonuaia",
@@ -966,7 +1067,8 @@
                 "lat": 58.38504227337567,
                 "lng": 26.71936582215607,
                 "height": 34.80812454223633
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Kroonuaia (kesklinna suunas)",
@@ -974,7 +1076,8 @@
                 "lat": 58.385996181468315,
                 "lng": 26.71937582955852,
                 "height": 34.415000915527344
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Kruusamäe (Narva mnt. suunas)",
@@ -982,7 +1085,8 @@
                 "lat": 58.398324950277335,
                 "lng": 26.723636666322626,
                 "height": 48.07937240600586
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kruusamäe (Põllu tn. suunas)",
@@ -990,7 +1094,8 @@
                 "lat": 58.39820756275706,
                 "lng": 26.724581308655324,
                 "height": 48.461875915527344
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kummeli",
@@ -998,7 +1103,8 @@
                 "lat": 58.40125464078616,
                 "lng": 26.72106803582647,
                 "height": 49.366249084472656
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kummeli (linna sisenev)",
@@ -1006,7 +1112,8 @@
                 "lat": 58.40109299145174,
                 "lng": 26.719375753890034,
                 "height": 48.9162483215332
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Kungla (Riia tn. suunas)",
@@ -1014,7 +1121,8 @@
                 "lat": 58.36052132994029,
                 "lng": 26.71297703865296,
                 "height": 64.8125
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kungla (raudtee suunas)",
@@ -1022,7 +1130,8 @@
                 "lat": 58.36032910337568,
                 "lng": 26.713521814054143,
                 "height": 64.31312561035156
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kuperjanovi (Kesklinna suunas)",
@@ -1030,7 +1139,8 @@
                 "lat": 58.375956172249666,
                 "lng": 26.710440223587934,
                 "height": 64.29999542236328
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Kuperjanovi (Raudteejaama suunas)",
@@ -1038,7 +1148,8 @@
                 "lat": 58.37597659739084,
                 "lng": 26.71030110049781,
                 "height": 64.48687744140625
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Kuu",
@@ -1046,7 +1157,8 @@
                 "lat": 58.366576103971475,
                 "lng": 26.736241995717773,
                 "height": 41.323123931884766
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Kvissentali",
@@ -1054,7 +1166,8 @@
                 "lat": 58.406560670293395,
                 "lng": 26.696488540190966,
                 "height": 34.973121643066406
-            }
+            },
+            "district": "Kvissentali"
         },
         {
             "name": "Kvissentali tee",
@@ -1062,7 +1175,8 @@
                 "lat": 58.40633743254567,
                 "lng": 26.708261034529258,
                 "height": 46.092498779296875
-            }
+            },
+            "district": "Kvissentali"
         },
         {
             "name": "Käo",
@@ -1070,7 +1184,8 @@
                 "lat": 58.35773524247845,
                 "lng": 26.70397272788601,
                 "height": 67.56312561035156
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Kärnise (linna)",
@@ -1110,7 +1225,8 @@
                 "lat": 58.38330992593816,
                 "lng": 26.71882450790182,
                 "height": 38.859375
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Lammi (Annelinna suunas)",
@@ -1118,7 +1234,8 @@
                 "lat": 58.35954000390835,
                 "lng": 26.77785055752555,
                 "height": 36.70124816894531
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Lammi (Kasteheina suunas)",
@@ -1126,7 +1243,8 @@
                 "lat": 58.35935535599587,
                 "lng": 26.777786141434355,
                 "height": 36.413124084472656
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Lammi ring (Annelinna suunas)",
@@ -1134,7 +1252,8 @@
                 "lat": 58.36424033893219,
                 "lng": 26.769220150892096,
                 "height": 35.704376220703125
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lammi ring (Võru tn suunas)",
@@ -1142,7 +1261,8 @@
                 "lat": 58.36173076310298,
                 "lng": 26.771413688542804,
                 "height": 37.89624786376953
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lammimõisa (linna sisenev)",
@@ -1150,7 +1270,8 @@
                 "lat": 58.36723465706448,
                 "lng": 26.768643731180973,
                 "height": 34.93562316894531
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lammimõisa (linnast väljuv)",
@@ -1158,7 +1279,8 @@
                 "lat": 58.36642158889781,
                 "lng": 26.768114776008616,
                 "height": 34.04874801635742
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lao",
@@ -1174,7 +1296,8 @@
                 "lat": 58.38919523996994,
                 "lng": 26.70470361605734,
                 "height": 38.76374816894531
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Laululava (linna sisenev)",
@@ -1182,7 +1305,8 @@
                 "lat": 58.389002913695265,
                 "lng": 26.704947131432508,
                 "height": 38.7912483215332
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Lehe (linna sisenev)",
@@ -1190,7 +1314,8 @@
                 "lat": 58.38671764695603,
                 "lng": 26.758401819194198,
                 "height": 51.50562286376953
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Lehe (linnast väljuv)",
@@ -1198,7 +1323,8 @@
                 "lat": 58.38675827209045,
                 "lng": 26.75863766680056,
                 "height": 51.59874725341797
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Lembitu",
@@ -1206,7 +1332,8 @@
                 "lat": 58.36929652044244,
                 "lng": 26.710742889251737,
                 "height": 61.71999740600586
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Lemmatsi",
@@ -1214,7 +1341,8 @@
                 "lat": 58.359237979739405,
                 "lng": 26.702866893866236,
                 "height": 69.94625091552734
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Linda (kesklinna suunas)",
@@ -1222,7 +1350,8 @@
                 "lat": 58.367102130146975,
                 "lng": 26.729711002938785,
                 "height": 51.72312545776367
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Linda (linnast väljuv)",
@@ -1230,7 +1359,8 @@
                 "lat": 58.366949200027456,
                 "lng": 26.729675246363097,
                 "height": 51.49374771118164
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Linnamuuseum",
@@ -1238,7 +1368,8 @@
                 "lat": 58.38253304252881,
                 "lng": 26.72806896214309,
                 "height": 34.234375
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Linnupargi (linna sisenev)",
@@ -1246,7 +1377,8 @@
                 "lat": 58.366302757003936,
                 "lng": 26.762601684261156,
                 "height": 33.178749084472656
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Linnupargi (linnast väljuv)",
@@ -1254,7 +1386,8 @@
                 "lat": 58.366681577099,
                 "lng": 26.761260053703356,
                 "height": 33.35874938964844
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lohkva Katlamaja",
@@ -1278,7 +1411,8 @@
                 "lat": 58.3694234645492,
                 "lng": 26.721528443713783,
                 "height": 55.78437423706055
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Lootuse (linnast väljuv)",
@@ -1286,7 +1420,8 @@
                 "lat": 58.3707841762529,
                 "lng": 26.72156058722658,
                 "height": 54.5568733215332
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Luha",
@@ -1294,7 +1429,8 @@
                 "lat": 58.37223647039871,
                 "lng": 26.753619569921693,
                 "height": 33.56624984741211
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Lõkketule (Hipodroomi suunas)",
@@ -1302,7 +1438,8 @@
                 "lat": 58.346053359953935,
                 "lng": 26.782747354197845,
                 "height": 41.946250915527344
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Lõkketule (Kasteheina suunas)",
@@ -1310,7 +1447,8 @@
                 "lat": 58.346413762848215,
                 "lng": 26.78350455581866,
                 "height": 41.69562530517578
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Lõuna (Ravila tn. suunas)",
@@ -1318,7 +1456,8 @@
                 "lat": 58.37486789953113,
                 "lng": 26.697259087670652,
                 "height": 62.40999984741211
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Lõuna (Riia tn. suunas)",
@@ -1326,7 +1465,8 @@
                 "lat": 58.37478517852256,
                 "lng": 26.69718741439873,
                 "height": 62.42562484741211
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Lõunakeskus III",
@@ -1334,7 +1474,8 @@
                 "lat": 58.35891035335472,
                 "lng": 26.672449303297384,
                 "height": 71.6668701171875
-            }
+            },
+            "district": "Ränilinna"
         },
         {
             "name": "Maarjamõisa (Kesklinna suunas)",
@@ -1342,7 +1483,8 @@
                 "lat": 58.36960232391425,
                 "lng": 26.70172948319242,
                 "height": 63.01687240600586
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Maarjamõisa (linnast väljuv)",
@@ -1350,7 +1492,8 @@
                 "lat": 58.36995811284312,
                 "lng": 26.70165463535755,
                 "height": 62.658748626708984
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Maarjamõisa haigla (Riia tn. suunas)",
@@ -1358,7 +1501,8 @@
                 "lat": 58.369367334780094,
                 "lng": 26.698240150375433,
                 "height": 64.32312774658203
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Maarjamõisa haigla (Viljandi mnt. suunas)",
@@ -1366,7 +1510,8 @@
                 "lat": 58.37004811644945,
                 "lng": 26.69803419344094,
                 "height": 63.421875
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Maaülikool",
@@ -1374,7 +1519,8 @@
                 "lat": 58.38733264881576,
                 "lng": 26.696491743238553,
                 "height": 53.217498779296875
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Melissi (linna sisenev)",
@@ -1382,7 +1528,8 @@
                 "lat": 58.40191838514849,
                 "lng": 26.721351540479215,
                 "height": 49.41562271118164
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Melissi (linnast väljuv)",
@@ -1390,7 +1537,8 @@
                 "lat": 58.40184107945984,
                 "lng": 26.722210881813147,
                 "height": 49.28312301635742
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Mesika (Kesklinna suunas)",
@@ -1398,7 +1546,8 @@
                 "lat": 58.35016089050462,
                 "lng": 26.7071204185117,
                 "height": 61.764373779296875
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Mesika (linnast väljuv)",
@@ -1406,7 +1555,8 @@
                 "lat": 58.35013089188254,
                 "lng": 26.70762624188155,
                 "height": 61.33374786376953
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Metsamaja (linna)",
@@ -1414,7 +1564,8 @@
                 "lat": 58.39174056862228,
                 "lng": 26.69233980008853,
                 "height": 50.741249084472656
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Metsamaja (maale)",
@@ -1422,7 +1573,8 @@
                 "lat": 58.39360008972905,
                 "lng": 26.69112228929373,
                 "height": 50.2756233215332
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Mudaniku (linna)",
@@ -1462,7 +1614,8 @@
                 "lat": 58.399646120987164,
                 "lng": 26.71703144404865,
                 "height": 47.877498626708984
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Muru (Põllu tn. suunas)",
@@ -1470,7 +1623,8 @@
                 "lat": 58.39986954325456,
                 "lng": 26.7168756778669,
                 "height": 47.698123931884766
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Männi (Sõpruse ringi suunas)",
@@ -1478,7 +1632,8 @@
                 "lat": 58.380557247185884,
                 "lng": 26.753447563186576,
                 "height": 42.04999923706055
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Männimetsa (Kasteheina suunas)",
@@ -1486,7 +1641,8 @@
                 "lat": 58.35340316924921,
                 "lng": 26.76620387739573,
                 "height": 33.95249938964844
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Männimetsa (Kesklinna suunas)",
@@ -1494,7 +1650,8 @@
                 "lat": 58.353167536081855,
                 "lng": 26.766512861048056,
                 "height": 34.03125
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Mõisapargi",
@@ -1510,7 +1667,8 @@
                 "lat": 58.399897916038505,
                 "lng": 26.729290992428094,
                 "height": 50.09187316894531
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Mõisavahe (Kesklinna suunas)",
@@ -1518,7 +1676,8 @@
                 "lat": 58.36950374859369,
                 "lng": 26.775243229316704,
                 "height": 44.74374771118164
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Mõisavahe (Nõlvaku suunas)",
@@ -1526,7 +1685,8 @@
                 "lat": 58.36935904778993,
                 "lng": 26.775313568424387,
                 "height": 44.661251068115234
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Narvamäe (Narva mnt. suunas)",
@@ -1534,7 +1694,8 @@
                 "lat": 58.38917612904779,
                 "lng": 26.72990404858729,
                 "height": 50.53125
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Narvamäe (Sõpruse pst. suunas)",
@@ -1542,7 +1703,8 @@
                 "lat": 58.38891812145279,
                 "lng": 26.730493262611482,
                 "height": 50.765625
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Nisu (Ilmatsalu tn. suunas)",
@@ -1550,7 +1712,8 @@
                 "lat": 58.37307497119254,
                 "lng": 26.685405517126327,
                 "height": 64.06312561035156
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Nisu (Riia tn. suunas)",
@@ -1558,7 +1721,8 @@
                 "lat": 58.3726980688564,
                 "lng": 26.685821611668104,
                 "height": 64.06062316894531
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Nooruse",
@@ -1566,7 +1730,8 @@
                 "lat": 58.366429329629504,
                 "lng": 26.69529120414657,
                 "height": 69.62562561035156
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Nurme (kesklinna suunas)",
@@ -1574,7 +1739,8 @@
                 "lat": 58.39330663780092,
                 "lng": 26.718043762436242,
                 "height": 52.54750061035156
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Näituse (Taara pst. suunas)",
@@ -1582,7 +1748,8 @@
                 "lat": 58.37893461817265,
                 "lng": 26.70846493035079,
                 "height": 64.86812591552734
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Nõlvakaare (linna sisenev)",
@@ -1606,7 +1773,8 @@
                 "lat": 58.37274717411142,
                 "lng": 26.780426172805914,
                 "height": 52.36750030517578
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Orava",
@@ -1614,7 +1782,8 @@
                 "lat": 58.391503000387935,
                 "lng": 26.730394052543083,
                 "height": 52.955623626708984
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Paju (Annelinna suunas)",
@@ -1622,7 +1791,8 @@
                 "lat": 58.382335577424314,
                 "lng": 26.746825124534553,
                 "height": 36.975624084472656
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Paju (Kesklinna suunas)",
@@ -1630,7 +1800,8 @@
                 "lat": 58.38261262913638,
                 "lng": 26.74577767943971,
                 "height": 37.30875015258789
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Pallase puiestee (Kasteheina suunas)",
@@ -1638,7 +1809,8 @@
                 "lat": 58.35877592791175,
                 "lng": 26.784279931729138,
                 "height": 39.1506233215332
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Pallase puiestee (Kesklinna suunas)",
@@ -1646,7 +1818,8 @@
                 "lat": 58.358885999262284,
                 "lng": 26.782826630821628,
                 "height": 38.69124984741211
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Palmihoone (Kesklinna suunas)",
@@ -1654,7 +1827,8 @@
                 "lat": 58.38321179267632,
                 "lng": 26.723620636322654,
                 "height": 34.64437484741211
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Palmihoone (Kroonuaia tn. suunas)",
@@ -1662,7 +1836,8 @@
                 "lat": 58.38518688283828,
                 "lng": 26.722877149633607,
                 "height": 34.24625015258789
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Pauluse (Kesklinna suunas)",
@@ -1670,7 +1845,8 @@
                 "lat": 58.37104164979067,
                 "lng": 26.71553995129456,
                 "height": 58.744998931884766
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Pauluse (linnast väljuv)",
@@ -1678,7 +1854,8 @@
                 "lat": 58.37152909953232,
                 "lng": 26.716283875904026,
                 "height": 58.869998931884766
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Peetri (linnast väljuv)",
@@ -1686,7 +1863,8 @@
                 "lat": 58.39007645896996,
                 "lng": 26.729132555237925,
                 "height": 50.44062423706055
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Peetri kirik (Narva mnt. suunas)",
@@ -1694,7 +1872,8 @@
                 "lat": 58.38996083057669,
                 "lng": 26.727439163049407,
                 "height": 49.893123626708984
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Peetri kirik (Põllu tn. suunas)",
@@ -1702,7 +1881,8 @@
                 "lat": 58.38992122927619,
                 "lng": 26.727851996823674,
                 "height": 49.771873474121094
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Pepleri (Raudteejaama suunas)",
@@ -1710,7 +1890,8 @@
                 "lat": 58.3755629090872,
                 "lng": 26.718005954305532,
                 "height": 63.23562240600586
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Pepleri (kesklinna suunas)",
@@ -1718,7 +1899,8 @@
                 "lat": 58.37396604729564,
                 "lng": 26.71941038039551,
                 "height": 60.55624771118164
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Piiri (linna sisenev)",
@@ -1726,7 +1908,8 @@
                 "lat": 58.388258965934256,
                 "lng": 26.708857439695347,
                 "height": 34.221248626708984
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Piiri (linnast väljuv)",
@@ -1734,7 +1917,8 @@
                 "lat": 58.388521374130455,
                 "lng": 26.708286074350557,
                 "height": 34.43562316894531
-            }
+            },
+            "district": "Supilinna"
         },
         {
             "name": "Pikk (Annelinna suunas)",
@@ -1742,7 +1926,8 @@
                 "lat": 58.38038534513481,
                 "lng": 26.737862955515798,
                 "height": 32.98124694824219
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Pikk (Raatuse tn. suunas)",
@@ -1750,7 +1935,8 @@
                 "lat": 58.38113830540099,
                 "lng": 26.736946034295,
                 "height": 33.01937484741211
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Postimaja (linna sisenev)",
@@ -1758,7 +1944,8 @@
                 "lat": 58.34525149924963,
                 "lng": 26.71487312973383,
                 "height": 56.31749725341797
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Postimaja (linnast väljuv)",
@@ -1766,7 +1953,8 @@
                 "lat": 58.345378201704726,
                 "lng": 26.714618376179033,
                 "height": 56.23500061035156
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Prisma",
@@ -1774,7 +1962,8 @@
                 "lat": 58.37609546022983,
                 "lng": 26.77879107564472,
                 "height": 58.35687255859375
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Puidu",
@@ -1782,7 +1971,8 @@
                 "lat": 58.39113939311528,
                 "lng": 26.680093541722986,
                 "height": 52.1256217956543
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Puidu (linna sisenev)",
@@ -1790,7 +1980,8 @@
                 "lat": 58.390936489279426,
                 "lng": 26.679461069689893,
                 "height": 52.27874755859375
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Puiestee (Narva mnt. suunas)",
@@ -1798,7 +1989,8 @@
                 "lat": 58.3845456541142,
                 "lng": 26.742970333990034,
                 "height": 45.236873626708984
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Puiestee (Sõpruse pst. suunas)",
@@ -1806,7 +1998,8 @@
                 "lat": 58.384041023795795,
                 "lng": 26.744134174702822,
                 "height": 42.860626220703125
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Purde",
@@ -1814,7 +2007,8 @@
                 "lat": 58.36351475771003,
                 "lng": 26.73051061752157,
                 "height": 49.287498474121094
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Puupilli",
@@ -1838,7 +2032,8 @@
                 "lat": 58.36669997476482,
                 "lng": 26.70364603265339,
                 "height": 69.34312438964844
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Pärna (Kõrveküla suunas)",
@@ -1862,7 +2057,8 @@
                 "lat": 58.39841321462371,
                 "lng": 26.709879238687343,
                 "height": 49.77124786376953
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Põllu (Puiestee tn. suunas)",
@@ -1870,7 +2066,8 @@
                 "lat": 58.39872317067659,
                 "lng": 26.710437029341104,
                 "height": 49.61062240600586
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Raadi (Narva mnt. suunas)",
@@ -1878,7 +2075,8 @@
                 "lat": 58.396634839405536,
                 "lng": 26.731019244897155,
                 "height": 54.3756217956543
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Raadi (Põllu tn. suunas)",
@@ -1886,7 +2084,8 @@
                 "lat": 58.39633320988076,
                 "lng": 26.73244302983605,
                 "height": 54.464996337890625
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Raadiraja (linna sisenev)",
@@ -1910,7 +2109,8 @@
                 "lat": 58.38244145142297,
                 "lng": 26.732482250677094,
                 "height": 33.14125061035156
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Raatuse (linnast väljuv)",
@@ -1918,7 +2118,8 @@
                 "lat": 58.3823209775866,
                 "lng": 26.73235351079089,
                 "height": 33.34437561035156
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Raeplats (linna)",
@@ -1926,7 +2127,8 @@
                 "lat": 58.37972237038812,
                 "lng": 26.72581852210892,
                 "height": 35.46437454223633
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Raeplats (maale)",
@@ -1934,7 +2136,8 @@
                 "lat": 58.3813265073692,
                 "lng": 26.7247047458205,
                 "height": 34.53687286376953
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Rahu (Kesklinna suunas)",
@@ -1942,7 +2145,8 @@
                 "lat": 58.35840251937765,
                 "lng": 26.721924222080585,
                 "height": 57.1037483215332
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Rahumäe (Kalda tee suunas)",
@@ -1950,7 +2154,8 @@
                 "lat": 58.37864602174087,
                 "lng": 26.770526016425254,
                 "height": 55.361873626708984
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Rahumäe (Nõlvaku suunas)",
@@ -1958,7 +2163,8 @@
                 "lat": 58.379075267919276,
                 "lng": 26.773291653083536,
                 "height": 59.32062530517578
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Raja (Kesklinna suunas)",
@@ -1966,7 +2172,8 @@
                 "lat": 58.36172667219093,
                 "lng": 26.69139868654175,
                 "height": 76.3699951171875
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Raja (linnast väljuv)",
@@ -1974,7 +2181,8 @@
                 "lat": 58.36130422741691,
                 "lng": 26.69002816255349,
                 "height": 76.52749633789062
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Raua",
@@ -1982,7 +2190,8 @@
                 "lat": 58.36396217681254,
                 "lng": 26.736425302187943,
                 "height": 43.23500061035156
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Raudtee II (raudtee suunas)",
@@ -1990,7 +2199,8 @@
                 "lat": 58.3546401716697,
                 "lng": 26.707431410600957,
                 "height": 64.1156234741211
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Raudtee III (linnast väljuv)",
@@ -1998,7 +2208,8 @@
                 "lat": 58.35467348242608,
                 "lng": 26.70708412367553,
                 "height": 64.40499877929688
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Raudteejaam (Kesklinna ja Riia tn. suunas)",
@@ -2006,7 +2217,8 @@
                 "lat": 58.373738612726946,
                 "lng": 26.70719863057582,
                 "height": 62.53562545776367
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Raudteejaam (Lõpp-peatus)",
@@ -2014,7 +2226,8 @@
                 "lat": 58.374010636859865,
                 "lng": 26.706755122576055,
                 "height": 62.573123931884766
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Raudteejaam (Tähtvere suunas)",
@@ -2022,7 +2235,8 @@
                 "lat": 58.373990914208264,
                 "lng": 26.706784008304183,
                 "height": 62.584999084472656
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Raudteejaam III",
@@ -2030,7 +2244,8 @@
                 "lat": 58.373482349592585,
                 "lng": 26.707849053555996,
                 "height": 62.34187316894531
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Ravila (Ravila tn. suunas)",
@@ -2038,7 +2253,8 @@
                 "lat": 58.369903657534664,
                 "lng": 26.68980225624561,
                 "height": 65.66312408447266
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Ravila (linnast väljuv)",
@@ -2046,7 +2262,8 @@
                 "lat": 58.369798252743195,
                 "lng": 26.689272468566873,
                 "height": 65.93624877929688
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Riia ring (Kesklinna suunas)",
@@ -2054,7 +2271,8 @@
                 "lat": 58.35874135858756,
                 "lng": 26.684957439978913,
                 "height": 79.62874603271484
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Riia ring (linnast väljuv)",
@@ -2062,7 +2280,8 @@
                 "lat": 58.35856540771665,
                 "lng": 26.684148802519463,
                 "height": 79.58562469482422
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Riiamäe (Kesklinn suunas)",
@@ -2070,7 +2289,8 @@
                 "lat": 58.372962110833235,
                 "lng": 26.722870693538635,
                 "height": 57.381874084472656
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Riiamäe (linnast väljuv)",
@@ -2078,7 +2298,8 @@
                 "lat": 58.37382799680585,
                 "lng": 26.72187467909106,
                 "height": 58.49187469482422
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Ringtee II (Ringtee Turu tn. suunas)",
@@ -2086,7 +2307,8 @@
                 "lat": 58.342380960812065,
                 "lng": 26.715862431471752,
                 "height": 56.7818717956543
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Risti (Narva mnt. suunas)",
@@ -2094,7 +2316,8 @@
                 "lat": 58.391877065499834,
                 "lng": 26.72209675158604,
                 "height": 53.13812255859375
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Risti (Põllu tn. suunas)",
@@ -2102,7 +2325,8 @@
                 "lat": 58.39208796042489,
                 "lng": 26.721674663907887,
                 "height": 53.139373779296875
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Roheline park",
@@ -2110,7 +2334,8 @@
                 "lat": 58.39655056324138,
                 "lng": 26.685311547583616,
                 "height": 51.035621643066406
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Roheline park (Lõpp-peatus)",
@@ -2118,7 +2343,8 @@
                 "lat": 58.39657650178965,
                 "lng": 26.68528040685598,
                 "height": 51.01499938964844
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Roopa (Lõpp-peatus)",
@@ -2126,7 +2352,8 @@
                 "lat": 58.348690299554725,
                 "lng": 26.69766378104937,
                 "height": 65.33187103271484
-            }
+            },
+            "district": "Variku"
         },
         {
             "name": "Roosi (kesklinna suunas)",
@@ -2134,7 +2361,8 @@
                 "lat": 58.38924926154108,
                 "lng": 26.73841041918497,
                 "height": 52.026248931884766
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Roosi (linnast väljuv)",
@@ -2142,7 +2370,8 @@
                 "lat": 58.38976732435583,
                 "lng": 26.739304007240296,
                 "height": 53.33625030517578
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Ropka tee (kesklinna suunas)",
@@ -2150,7 +2379,8 @@
                 "lat": 58.356129941330416,
                 "lng": 26.74084602448908,
                 "height": 35.47312545776367
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Ropka tee (linnast väljuv)",
@@ -2158,7 +2388,8 @@
                 "lat": 58.354615868991495,
                 "lng": 26.740688391720635,
                 "height": 35.078125
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Ropkamõisa (Tähe tn. suunas)",
@@ -2166,7 +2397,8 @@
                 "lat": 58.35565456316153,
                 "lng": 26.727210532463687,
                 "height": 53.54624938964844
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Ropkamõisa (Võru tn. suunas)",
@@ -2174,7 +2406,8 @@
                 "lat": 58.35583672312135,
                 "lng": 26.728920648594517,
                 "height": 51.90562438964844
-            }
+            },
+            "district": "Ropka"
         },
         {
             "name": "Rähni (linna)",
@@ -2198,7 +2431,8 @@
                 "lat": 58.36356550338108,
                 "lng": 26.734656756712752,
                 "height": 44.96125030517578
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Salemi",
@@ -2206,7 +2440,8 @@
                 "lat": 58.36864815054497,
                 "lng": 26.734338010332415,
                 "height": 43.10625076293945
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Salvest (Kesklinna suunas)",
@@ -2214,7 +2449,8 @@
                 "lat": 58.39852299484251,
                 "lng": 26.709010961992256,
                 "height": 49.526248931884766
-            }
+            },
+            "district": "Kvissentali"
         },
         {
             "name": "Salvest (linnast väljuv)",
@@ -2222,7 +2458,8 @@
                 "lat": 58.39900606473333,
                 "lng": 26.708878645901134,
                 "height": 49.80437469482422
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Sepa turg (Sepa turu poolne)",
@@ -2230,7 +2467,8 @@
                 "lat": 58.3493907981501,
                 "lng": 26.74086108944908,
                 "height": 33.63687515258789
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Sepa turg (Sepa turu vastas)",
@@ -2238,7 +2476,8 @@
                 "lat": 58.34981640385708,
                 "lng": 26.741130099155374,
                 "height": 33.5
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Silla II (Kalevi tn. suunas)",
@@ -2246,7 +2485,8 @@
                 "lat": 58.36870062599773,
                 "lng": 26.736122395051922,
                 "height": 39.50187301635742
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Silla III",
@@ -2254,7 +2494,8 @@
                 "lat": 58.369030723891946,
                 "lng": 26.737634307723134,
                 "height": 37.741249084472656
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Sinepi (linna sisenev)",
@@ -2262,7 +2503,8 @@
                 "lat": 58.40263737661839,
                 "lng": 26.716221387451057,
                 "height": 48.946250915527344
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Sinepi (linnast väljuv)",
@@ -2270,7 +2512,8 @@
                 "lat": 58.4026401459795,
                 "lng": 26.71645802807604,
                 "height": 48.87062454223633
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Soinaste I (kesklinna suunas)",
@@ -2278,7 +2521,8 @@
                 "lat": 58.36434492744043,
                 "lng": 26.699206857743256,
                 "height": 71.2125015258789
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Soinaste II (linnast väljuv)",
@@ -2286,7 +2530,8 @@
                 "lat": 58.36385762503795,
                 "lng": 26.69731771283608,
                 "height": 73.14125061035156
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Soinaste III (raudtee suunas)",
@@ -2294,7 +2539,8 @@
                 "lat": 58.36356625213528,
                 "lng": 26.698778949175647,
                 "height": 73.69124603271484
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Soojuse tee (linna sisenev)",
@@ -2318,7 +2564,8 @@
                 "lat": 58.3774615077504,
                 "lng": 26.730195491001425,
                 "height": 34.204376220703125
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Soola I (Kvartali kõrval, Sõpruse silla suunas)",
@@ -2326,7 +2573,8 @@
                 "lat": 58.377171779855765,
                 "lng": 26.730051873472686,
                 "height": 34.244998931884766
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Soola I (Lõpp-peatus)",
@@ -2334,7 +2582,8 @@
                 "lat": 58.377253856444206,
                 "lng": 26.729919938749543,
                 "height": 34.3224983215332
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Soola II (Sõpruse silla suunas)",
@@ -2342,7 +2591,8 @@
                 "lat": 58.37674417496996,
                 "lng": 26.73088037026163,
                 "height": 34.51374816894531
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Soomeküla (linna)",
@@ -2366,7 +2616,8 @@
                 "lat": 58.38070480577316,
                 "lng": 26.75515845647939,
                 "height": 43.83625030517578
-            }
+            },
+            "district": "Annelinna"
         },
         {
             "name": "Sõpruse puiestee (Puiestee tn. suunas)",
@@ -2374,7 +2625,8 @@
                 "lat": 58.38123810121438,
                 "lng": 26.752489867791656,
                 "height": 42.61000061035156
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Taara pst. (Hiie tn. suunas)",
@@ -2382,7 +2634,8 @@
                 "lat": 58.3814051110651,
                 "lng": 26.703537969279125,
                 "height": 60.854373931884766
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Taara pst. (Näituse tn. suunas)",
@@ -2390,7 +2643,8 @@
                 "lat": 58.38161927750907,
                 "lng": 26.702717364588068,
                 "height": 60.371246337890625
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Tamme (linna)",
@@ -2414,7 +2668,8 @@
                 "lat": 58.36402534763308,
                 "lng": 26.70657657515378,
                 "height": 70.51437377929688
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tamme kool (raudtee suunas)",
@@ -2422,7 +2677,8 @@
                 "lat": 58.363576937533246,
                 "lng": 26.707065306280064,
                 "height": 70.2699966430664
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tamme puiestee (FI suunas)",
@@ -2430,7 +2686,8 @@
                 "lat": 58.354140262627105,
                 "lng": 26.696067620093544,
                 "height": 70.58125305175781
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tamme puiestee (raudtee suunas)",
@@ -2438,7 +2695,8 @@
                 "lat": 58.35414513886598,
                 "lng": 26.697072298888358,
                 "height": 70.16312408447266
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tarmeko (Sõpruse silla suunas)",
@@ -2446,7 +2704,8 @@
                 "lat": 58.365209787066924,
                 "lng": 26.74049121488437,
                 "height": 37.48374938964844
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Tarmeko (linnast väljuv)",
@@ -2454,7 +2713,8 @@
                 "lat": 58.36406852714264,
                 "lng": 26.740075079709545,
                 "height": 39.004371643066406
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Tartu Maja I (linnast väljuv)",
@@ -2462,7 +2722,8 @@
                 "lat": 58.382748705537225,
                 "lng": 26.683355766183617,
                 "height": 56.670623779296875
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Tartu Maja II (Betooni tn. suunas)",
@@ -2470,7 +2731,8 @@
                 "lat": 58.38228743234462,
                 "lng": 26.683807678456787,
                 "height": 57.40562438964844
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Tartu Maja III (Ravila tn. suunas)",
@@ -2478,7 +2740,8 @@
                 "lat": 58.38203996817675,
                 "lng": 26.68567925436639,
                 "height": 58.42499923706055
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Tartu Maja IV (raudtee suunas)",
@@ -2486,7 +2749,8 @@
                 "lat": 58.38183161588859,
                 "lng": 26.685392130053536,
                 "height": 58.81749725341797
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Tartu näitused (linna)",
@@ -2494,7 +2758,8 @@
                 "lat": 58.388830933549855,
                 "lng": 26.6944062760078,
                 "height": 51.510623931884766
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Tartu näitused (maale)",
@@ -2502,7 +2767,8 @@
                 "lat": 58.38916442974157,
                 "lng": 26.694403692868722,
                 "height": 51.77874755859375
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Teguri (kesklinna suunas)",
@@ -2510,7 +2776,8 @@
                 "lat": 58.36182680595435,
                 "lng": 26.721250894070888,
                 "height": 57.60187530517578
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Teguri (linnast väljuv)",
@@ -2518,7 +2785,8 @@
                 "lat": 58.3609297492325,
                 "lng": 26.72124147417501,
                 "height": 57.16562271118164
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Tehase (Tähe tn. suunas)",
@@ -2526,7 +2794,8 @@
                 "lat": 58.36143019646149,
                 "lng": 26.733925688002365,
                 "height": 43.44874954223633
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Tehase (linna sisenev)",
@@ -2534,7 +2803,8 @@
                 "lat": 58.36132409062178,
                 "lng": 26.734782885220213,
                 "height": 43.135623931884766
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Tehnoloogiainstituut",
@@ -2542,7 +2812,8 @@
                 "lat": 58.3666421354087,
                 "lng": 26.694762872122016,
                 "height": 69.43062591552734
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Televisiooni",
@@ -2550,7 +2821,8 @@
                 "lat": 58.361173262382685,
                 "lng": 26.70178626186262,
                 "height": 72.04562377929688
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tervishoiu (Ravila tn. suunas)",
@@ -2558,7 +2830,8 @@
                 "lat": 58.373165050112355,
                 "lng": 26.699756396020998,
                 "height": 63.506248474121094
-            }
+            },
+            "district": "Tammelinna"
         },
         {
             "name": "Tervishoiu (Riia tn. suunas)",
@@ -2566,7 +2839,8 @@
                 "lat": 58.372418443852474,
                 "lng": 26.700021401811405,
                 "height": 63.08124923706055
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Tiksoja (linna)",
@@ -2590,7 +2864,8 @@
                 "lat": 58.36125669706619,
                 "lng": 26.74040248539662,
                 "height": 40.178123474121094
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Tref (linnast väljuv)",
@@ -2598,7 +2873,8 @@
                 "lat": 58.360825175825646,
                 "lng": 26.740396586456868,
                 "height": 39.744998931884766
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Triigi (Annelinna suunas)",
@@ -2606,7 +2882,8 @@
                 "lat": 58.356015328951386,
                 "lng": 26.788992464140204,
                 "height": 44.901248931884766
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Triigi (Kasteheina suunas)",
@@ -2614,7 +2891,8 @@
                 "lat": 58.35498359181904,
                 "lng": 26.788874740973228,
                 "height": 46.13749694824219
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Tuglase (Kreutzwaldi tn. suunas)",
@@ -2622,7 +2900,8 @@
                 "lat": 58.386212236843356,
                 "lng": 26.694993071386286,
                 "height": 53.92250061035156
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Tuglase (Vaksali tn. suunas)",
@@ -2630,7 +2909,8 @@
                 "lat": 58.38621337188934,
                 "lng": 26.69472702661136,
                 "height": 53.598751068115234
-            }
+            },
+            "district": "Tähtvere"
         },
         {
             "name": "Tulbi (Lunini tn. suunas)",
@@ -2638,7 +2918,8 @@
                 "lat": 58.371402266447575,
                 "lng": 26.69468762657739,
                 "height": 62.73937225341797
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Tulbi (Ravila tn. suunas)",
@@ -2646,7 +2927,8 @@
                 "lat": 58.371203448313345,
                 "lng": 26.693625700151077,
                 "height": 63.58187484741211
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Turu",
@@ -2654,7 +2936,8 @@
                 "lat": 58.37800120091765,
                 "lng": 26.733779321636387,
                 "height": 33.57749938964844
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Turu (Lõpp-peatus)",
@@ -2662,7 +2945,8 @@
                 "lat": 58.37796681499288,
                 "lng": 26.733854521849253,
                 "height": 33.58374786376953
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Turu ring (Turu tn. suunas)",
@@ -2670,7 +2954,8 @@
                 "lat": 58.34280274722377,
                 "lng": 26.7381229259511,
                 "height": 34.928749084472656
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Turu ring (Võru tn suunas)",
@@ -2678,7 +2963,8 @@
                 "lat": 58.34306629067086,
                 "lng": 26.73704047288355,
                 "height": 36.0256233215332
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Tähe (Turu tn. suunas)",
@@ -2686,7 +2972,8 @@
                 "lat": 58.34275738237375,
                 "lng": 26.73009602581646,
                 "height": 44.15749740600586
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Tähe (Võru tn. suunas)",
@@ -2694,7 +2981,8 @@
                 "lat": 58.34306788130229,
                 "lng": 26.7295982478762,
                 "height": 44.75312423706055
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Tõnise (linna)",
@@ -2718,7 +3006,8 @@
                 "lat": 58.384980834545416,
                 "lng": 26.756830144915153,
                 "height": 49.26937484741211
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Tüve (linnast väljuv)",
@@ -2726,7 +3015,8 @@
                 "lat": 58.38494350119298,
                 "lng": 26.757014732542412,
                 "height": 49.66437530517578
-            }
+            },
+            "district": "Jaamamõisa"
         },
         {
             "name": "Uus-Veeriku",
@@ -2750,7 +3040,8 @@
                 "lat": 58.36558052988233,
                 "lng": 26.734492407051114,
                 "height": 43.54874801635742
-            }
+            },
+            "district": "Karlova"
         },
         {
             "name": "Vabaduse puiestee (maale)",
@@ -2758,7 +3049,8 @@
                 "lat": 58.37912232867339,
                 "lng": 26.727219079875574,
                 "height": 35.69062423706055
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Vabadussild (maale)",
@@ -2766,7 +3058,8 @@
                 "lat": 58.38336485937513,
                 "lng": 26.723665688422646,
                 "height": 34.36249923706055
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Vahi",
@@ -2774,7 +3067,8 @@
                 "lat": 58.40431888488531,
                 "lng": 26.70843927467798,
                 "height": 43.850624084472656
-            }
+            },
+            "district": "Kvissentali"
         },
         {
             "name": "Vaksali (Näituse tn. suunas)",
@@ -2782,7 +3076,8 @@
                 "lat": 58.37684819311333,
                 "lng": 26.702667212294852,
                 "height": 64.06812286376953
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Vaksali (Raudteejaama suunas)",
@@ -2790,7 +3085,8 @@
                 "lat": 58.37726336693713,
                 "lng": 26.70183487459632,
                 "height": 63.42250061035156
-            }
+            },
+            "district": "Vaksali"
         },
         {
             "name": "Vallikraavi (Kesklinna suunas)",
@@ -2798,7 +3094,8 @@
                 "lat": 58.37658851460886,
                 "lng": 26.71492062810137,
                 "height": 66.00499725341797
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Vallikraavi (Raudteejaama suunas)",
@@ -2806,7 +3103,8 @@
                 "lat": 58.376617162224,
                 "lng": 26.714578627959614,
                 "height": 65.9481201171875
-            }
+            },
+            "district": "Kesklinna"
         },
         {
             "name": "Vanaaseme tee (linna)",
@@ -2830,7 +3128,8 @@
                 "lat": 58.34527064923956,
                 "lng": 26.741283601074016,
                 "height": 34.0881233215332
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Vangla",
@@ -2838,7 +3137,8 @@
                 "lat": 58.345246036806756,
                 "lng": 26.740965505513376,
                 "height": 33.99374771118164
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Vene (Kesklinna suunas)",
@@ -2846,7 +3146,8 @@
                 "lat": 58.3857869621336,
                 "lng": 26.726394134951548,
                 "height": 34.65999984741211
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Vene (linnast väljuv)",
@@ -2854,7 +3155,8 @@
                 "lat": 58.38667217015892,
                 "lng": 26.72685540137343,
                 "height": 35.373748779296875
-            }
+            },
+            "district": "Ülejõe"
         },
         {
             "name": "Viadukti (Annelinna suunas)",
@@ -2862,7 +3164,8 @@
                 "lat": 58.356316612649714,
                 "lng": 26.764770824445826,
                 "height": 37.64249801635742
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Viadukti (Võru tn suunas)",
@@ -2870,7 +3173,8 @@
                 "lat": 58.354709052664084,
                 "lng": 26.762709125987985,
                 "height": 37.45874786376953
-            }
+            },
+            "district": "Ihaste"
         },
         {
             "name": "Viljandi maantee (Riia tn. suunas)",
@@ -2878,7 +3182,8 @@
                 "lat": 58.36972984640041,
                 "lng": 26.690805655012404,
                 "height": 66.1187515258789
-            }
+            },
+            "district": "Maarjamõisa"
         },
         {
             "name": "Viljandi maantee (lmatsalu tn. suunas)",
@@ -2886,7 +3191,8 @@
                 "lat": 58.369718183253575,
                 "lng": 26.69100564862405,
                 "height": 66.18437194824219
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Visa hall (Betooni tn. suunas)",
@@ -2894,7 +3200,8 @@
                 "lat": 58.378889502450384,
                 "lng": 26.68402749130579,
                 "height": 61.21437454223633
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Visa hall (Ilmatsalu tn. suunas)",
@@ -2902,7 +3209,8 @@
                 "lat": 58.37854671370648,
                 "lng": 26.683705356452602,
                 "height": 61.116249084472656
-            }
+            },
+            "district": "Veeriku"
         },
         {
             "name": "Vorbuse (linna)",
@@ -2942,7 +3250,8 @@
                 "lat": 58.40015218393,
                 "lng": 26.714446442706897,
                 "height": 48.29437255859375
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Välja (linnast väljuv)",
@@ -2950,7 +3259,8 @@
                 "lat": 58.400038738987455,
                 "lng": 26.714273389843143,
                 "height": 48.39937210083008
-            }
+            },
+            "district": "Raadi-Kruusamäe"
         },
         {
             "name": "Võru ring",
@@ -2958,7 +3268,8 @@
                 "lat": 58.344575515831934,
                 "lng": 26.715447441712865,
                 "height": 57.12187194824219
-            }
+            },
+            "district": "Ropka tööstuse"
         },
         {
             "name": "Zoomeedikum",
@@ -2966,7 +3277,8 @@
                 "lat": 58.393124599329404,
                 "lng": 26.687358096374872,
                 "height": 51.23374938964844
-            }
+            },
+            "district": "Tähtvere"
         }
     ]
 }
