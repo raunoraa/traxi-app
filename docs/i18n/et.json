@@ -74,6 +74,7 @@
 	"bus_stop_no_route_found": "Valitud peatuste vahel marsruuti ei leitud. Proovige teisi peatusi.",
 	"bus_stop_stops_too_close": "Pealevõtu- ja mahaminekupeatus on liiga lähedal. Valige teine pealevõtu- või mahaminekupeatus.",
 	"bus_stop_car_no_route": "Auto ei saa valitud pealevõtupeatusesse sõita.",
+	"waiting_for_route": "Valmistun sõiduks...",
 	"bus_stop_min_distance_hint": "Min. sõidukaugus pealevõtust mahaminekuni: {min_distance}",
 	"center_on_location": "Tsentreeri minu asukohale",
 	"confirm_now_button": "Kinnita kohe",
