@@ -41,6 +41,7 @@
 	"chosen_destination_spot": "{spot_name}",
 	"rating_heading": "Hinnake oma sõitu",
 	"rating_refuse": "Jäta vahele",
+	"rating_submit": "Saada",
 	"loading": "Laen...",
 	"loading_map": "Laen kaarti...",
 	"walking_time": "{time} kõndida",

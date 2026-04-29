@@ -41,6 +41,7 @@
 	"chosen_destination_spot": "{spot_name}",
 	"rating_heading": "Rate your ride",
 	"rating_refuse": "Skip",
+	"rating_submit": "Submit",
 	"loading": "Loading...",
 	"loading_map": "Loading map...",
 	"walking_time": "{time} walk",
