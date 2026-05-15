@@ -81,5 +81,7 @@
 	"confirm_now_button": "Kinnita kohe",
 	"cancel_button": "Tühista",
 	"confirming_in": "Kinnitamine",
-	"reconnecting": "Taasühendamine"
+	"reconnecting": "Taasühendamine",
+	"menu_collapse_button": "Peida menüü",
+	"menu_expand_button": "Näita menüüd"
 }

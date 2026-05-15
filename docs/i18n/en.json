@@ -81,5 +81,7 @@
 	"confirm_now_button": "Confirm now",
 	"cancel_button": "Cancel",
 	"confirming_in": "Confirming in",
-	"reconnecting": "Reconnecting"
+	"reconnecting": "Reconnecting",
+	"menu_collapse_button": "Collapse menu",
+	"menu_expand_button": "Expand menu"
 }
